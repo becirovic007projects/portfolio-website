@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "title": "Recipe App",
+      "description": "Application that displays a random data from the server.",
+      "imgUrl": "./meals.png",
+      "tags": ["Older"],
+      "projectLink": "https://app-random-8e33d.web.app/",
+      "codeLink": "https://github.com/becirovic007projects/front-end-developing/tree/main/2.%20Meals%20Application"
+    },
+    {
+      "title": "Weather App",
+      "description": "Weather application for the cities around the globe",
+      "imgUrl": "./weatherr.png",
+      "tags": ["Older"],
+      "projectLink": "https://appweather-257fb.web.app/",
+      "codeLink": "https://github.com/becirovic007projects/front-end-developing/tree/main/6.%20Weather%20Application"
+    },
+    {
+      "title": "Quiz app",
+      "description": "App that shows question to answer. Interesting quiz. Try out.",
+      "imgUrl": "./quiz.png",
+      "tags": ["Older"],
+      "projectLink": "https://quizproject-ee608.web.app/",
+      "codeLink": "https://github.com/becirovic007projects/front-end-developing/tree/main/3.%20Quiz%20project"
+    },
+    {
+      "title": "TODO CRUD",
+      "description": "Standard TODO CRUD application",
+      "imgUrl": "/worklist.png",
+      "tags": ["Older"],
+      "projectLink": "https://worklist-120aa.web.app/",
+      "codeLink": "https://github.com/becirovic007projects/front-end-developing/tree/main/5.%20Work%20List%20Project"
+    },
+    {
+      "title": "Password Generator App",
+      "description": "Application for generating strong random passwords",
+      "imgUrl": "/generator.png",
+      "tags": ["Older"],
+      "projectLink": "https://password-app-6edf1.web.app/",
+      "codeLink": "https://github.com/becirovic007projects/front-end-developing/tree/main/7.%20Passwords%20app"
+    }
+  ]
+}
